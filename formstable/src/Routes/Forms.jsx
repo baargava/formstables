@@ -110,7 +110,7 @@ const Forms = () => {
 
                             <div className="flex flex-row items-end justify-end">
                                 <CustomButton
-                                    label="Submit"
+                                    label="Submit Form"
                                     onClick={handleSubmit}
                                     disabled={false}
                                     customStyles="mt-4"
